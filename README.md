@@ -7,7 +7,7 @@ Skills Summary
 
 Work Experience
 
-	__TITLE__ - DATE - _COMPANY_
+  __TITLE__ - DATE - _COMPANY_
 
 	skills leveraged
 
